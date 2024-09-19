@@ -6,7 +6,7 @@ katherine Whitehead
 
 
 ## Reading order
-* report/
+* report
   - 01-Report.md
  
 ## Description
